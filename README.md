@@ -1,12 +1,12 @@
-# Batata Bit Site - Bitcoin.
+# Batata Bit Site - Bitcoin
 
-This project is a "Batata Bit Site" using HTML and CSS Foundations.
+This project is a "Batata Bit Site" using HTML and CSS Foundations. If you want to create a project like this, you can check out this course: [Curso de Responsive Design: Maquetación Mobile First - 2020](https://platzi.com/cursos/mobile-first/) on Platzi.
 
-## GitHub Pages:
+## GitHub Pages
 
-[Batata Bit Site](https://mauriciojcarrillo.github.io/3.curso_mobile_first-batata_bit_platzi)
+[Batata Bit Site](https://mauriciojcarrillo.github.io/batata-bit-website)
 
-## Technologies and concepts:
+## Technologies and concepts
 
 - HTML.
 - CSS.

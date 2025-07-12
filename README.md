@@ -4,7 +4,7 @@ This project is a "Batata Bit Site" using HTML and CSS Foundations. If you want 
 
 ## GitHub Pages
 
-[Batata Bit Site](https://mauriciojcarrillo.github.io/batata-bit-website)
+[Batata Bit Site](https://mauriciojcarrillo.github.io/batata-bit-vanilla-website)
 
 ## Technologies and concepts
 

@@ -114,8 +114,7 @@ main {
 .main-exchange-container {
   width: 100%;
   height: auto;
-  padding-top: 59px;
-  padding-bottom: 65px;
+  padding: 64px 15px;
   text-align: center;
 }
 
@@ -158,6 +157,14 @@ main {
   overflow-x: scroll;
   overscroll-behavior-x: contain;
   scroll-snap-type: x proximity;
+}
+
+.main-tables-container::-webkit-scrollbar {
+  height: 3px;
+}
+
+.main-tables-container::-webkit-scrollbar-thumb {
+  background-color: var(--bitcoin-orange);
 }
 
 .main-currency-table {
